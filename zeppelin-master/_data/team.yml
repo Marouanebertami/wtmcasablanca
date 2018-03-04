@@ -1,0 +1,73 @@
+- 
+  id: 0
+  name: "Houda"
+  surname: "Mouttalib"
+  title: ""
+  thumbnailUrl: HoudaMOUTTALIB.jpg
+  team: true
+  ribbon: 
+    - {abbr: "WTM", title: "Women Techmakers"}
+  social: 
+    
+    - {name: "twitter", link: "https://twitter.com/houdamouttalib"}
+    - {name: "linkedin", link: "https://linkedin.com/houdamouttalib"}
+    - {name: "facebook", link: "http://facebook.com/houdamouttalib"}
+    - {name: "google-plus", link: "https://plus.google.com/103496832153466356186"}
+-
+  id: 1
+  name: "Maroua"
+  surname: "Ezouhri"
+  title: "Designer and Web Developer"
+  thumbnailUrl: marouaezouhri.jpg
+  team: true
+  ribbon: 
+    - {abbr: "WTM", title: "Women Techmakers"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ezouhrimaroua"}
+    - {name: "linkedin", link: "https://linkedin.com/in/maroua-ezouhri-381174a7"}
+    - {name: "facebook", link: "https://facebook.com/maroua.ezouhri.1"}  
+- {name: "instagram", link: "https://instagram.com/ezouhrimaroua"}
+- 
+  id: 2
+  name: "madiha"
+  surname: "harifi"
+  title: "Web Developer"
+  thumbnailUrl: madihaharifi.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Women Techmakers"}
+  social: 
+    - {name: "linkedin", link: "https://linkedin.com/in/harifi-madiha-inouiw"}
+    - {name: "facebook", link: "https://facebook.com/Mnr.founder"}
+- 
+  id: 3
+  name: "Jihane"
+  surname: "abouzine"
+  title: ""
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "linkedin", link: "https://linkedin.com/in/jihane-abouzine-6843ab153"}
+    - {name: "facebook", link: "https://facebook.com/jihane.abou"}
+- 
+  id: 4
+  name: "meriem"
+  surname: "takny"
+  title: ""
+  thumbnailUrl: ValentynShybanov.jpg
+  subTeam: true
+  social: 
+    - {name: "linkedin", link: "https://linkedin.com/?_rdc=1&_rdr"}
+    - {name: "facebook", link: "http://facebook.com/Meriem.takny"}
+
+- 
+  id: 5
+  name: "Zakia"
+  surname: "hmayda"
+  title: ""
+  thumbnailUrl: ValentynShybanov.jpg
+  subTeam: true
+  social: 
+    - {name: "linkedin", link: "https://linkedin.com/in!zakia-hmayda-8430b688"}
+    - {name: "facebook", link: "http://facebook.com/zakiahmayda"}
+- {name: "instagram", link: "http://instagram.com/zakiahmayda"}
