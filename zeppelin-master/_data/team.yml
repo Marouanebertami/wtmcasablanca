@@ -44,7 +44,7 @@
   name: "Jihane"
   surname: "abouzine"
   title: ""
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: jihane.jpg
   subTeam: true
   social: 
     - {name: "linkedin", link: "https://linkedin.com/in/jihane-abouzine-6843ab153"}
@@ -54,7 +54,7 @@
   name: "meriem"
   surname: "takny"
   title: ""
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Meriem takny.jpg
   subTeam: true
   social: 
     - {name: "linkedin", link: "https://linkedin.com/?_rdc=1&_rdr"}
@@ -65,7 +65,7 @@
   name: "Zakia"
   surname: "hmayda"
   title: ""
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: Houda MOUTTALIB.jpg
   subTeam: true
   social: 
     - {name: "linkedin", link: "https://linkedin.com/in!zakia-hmayda-8430b688"}
